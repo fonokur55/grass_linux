@@ -2,6 +2,8 @@
 
 A custom Arch based Linux distribution with a green Hyprland desktop, a full gaming stack, and its own terminal installer.
 
+Website: **[grass.fuleki.co](https://grass.fuleki.co/#hero)**
+
 GRASS Linux is a ready to use system for people who want a modern tiling desktop without spending days setting everything up. It boots into a themed Hyprland rice, comes with useful apps preconfigured, and can be installed to disk with a simple terminal installer that supports encryption and dual boot. Under the hood it is still plain Arch, so you can change anything you want.
 
 ## Download
